@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cornflourblue/react-hooks-redux-registration-login-example.git"
+    "url": "git+https://github.com/deamyasin/tugas_jwt_nodejs_react/tree/main/client_react.git"
   },
   "license": "MIT",
   "scripts": {
@@ -33,9 +33,9 @@
   },
   "description": "React Hooks + Redux - User Registration and Login Tutorial & Example",
   "bugs": {
-    "url": "https://github.com/cornflourblue/react-hooks-redux-registration-login-example/issues"
+    "url": "https://github.com/deamyasin/tugas_jwt_nodejs_react/tree/main/client_react/issues"
   },
-  "homepage": "https://github.com/cornflourblue/react-hooks-redux-registration-login-example#readme",
+  "homepage": "https://github.com/deamyasin/tugas_jwt_nodejs_react/tree/main/client_react#readme",
   "main": "webpack.config.js",
   "author": "deamyasin"
 }

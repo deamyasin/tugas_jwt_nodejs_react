@@ -1,11 +1,11 @@
 {
   "name": "tugas_jwt_nodejs",
   "version": "1.0.0",
-  "description": "Node.js + MySQL API for User Management, Authentication and Registration",
+  "description": "tugas mata kuliah web service membuat jwt",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cornflourblue/node-mysql-registration-login-api.git"
+    "url": "https://github.com/deamyasin/tugas_jwt_nodejs_react.json"
   },
   "scripts": {
     "start": "node ./server.js",
@@ -27,9 +27,9 @@
     "nodemon": "^2.0.4"
   },
   "bugs": {
-    "url": "https://github.com/cornflourblue/node-mysql-registration-login-api/issues"
+    "url": "https://github.com/deamyasin/tugas_jwt_nodejs_react/issues"
   },
-  "homepage": "https://github.com/cornflourblue/node-mysql-registration-login-api#readme",
+  "homepage": "https://github.com/deamyasin/tugas_jwt_nodejs_react#readme",
   "main": "server.js",
   "author": "deamyasin"
 }
